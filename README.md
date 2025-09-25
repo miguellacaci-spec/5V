@@ -6,10 +6,9 @@ Responde brevemente a cada pregunta en el espacio indicado.
 1. **V dominante hoy y V dominante si se duplica el tráfico**  
    - Respuesta:  
      ```
-    Hoy domina **Volumen**, porque el reto principal es almacenar y manejar la cantidad creciente de archivos.  
+Hoy domina **Volumen**, porque el reto principal es almacenar y manejar la cantidad creciente de archivos.  
 Si el tráfico se duplica, pasaría a dominar **Velocidad**, ya que la ingestión y el procesamiento en tiempo razonable se vuelven críticos.  
 La justificación es que más tráfico exige tiempos de procesamiento más cortos para mantener la misma experiencia de usuario.
-
      ```
 
 2. **Trade-off elegido (p.ej., más compresión vs CPU)**  
